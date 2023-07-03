@@ -1,1 +1,0 @@
-/* Macros for video card  */

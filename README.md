@@ -1,10 +1,20 @@
-# LCOM Project
+# MiniPicty
 
-LCOM Project for group T13G05.
+>**Project**
+><br />
+>Course Unit: [Laboratório de Computadores](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501680 "Computer Laboratory"), 2nd year 
+><br />
+>Course: **Informatics and Computer Engineering** 
+><br />
+> Faculty: **FEUP** (Faculty of Engineering of the University of Porto)
+><br />
+> Report: [report.pdf](doc/report.pdf)
+><br/>
+> Project evaluation: **20**/20
+><br/>
+> Individual evaluation: **19**/20
 
-Group members:
 
-1. Félix Martins (up202108837@edu.fe.up.pt)
-2. Francisco da Ana (up202108762@edu.fe.up.pt)
-3. João Pereira (up202108848@edu.fe.up.pt)
-4. Tomás Vicente (up202108717@edu.fe.up.pt)
+## Project Goals
+
+Text goes here
